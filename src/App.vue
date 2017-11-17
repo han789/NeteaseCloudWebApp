@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- 测试 -->
       <keep-alive>
         <router-view></router-view>
       </keep-alive>
